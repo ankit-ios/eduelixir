@@ -19,7 +19,7 @@ class SplashScreen : AppCompatActivity() {
     {
         Timer().schedule( object : TimerTask(){
             override fun run() {
-                val intent = Intent(this@SplashScreen, MainActivity::class.java)
+                val intent = Intent(applicationContext, LoginPage::class.java)
                 startActivity(intent)
                 finish()
             }

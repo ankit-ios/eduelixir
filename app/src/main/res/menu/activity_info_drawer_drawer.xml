@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Dashboard" />
+
+        <item
+            android:id="@+id/nav_attendance"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Attendance" />
+
+        <item
+            android:id="@+id/nav_timeTable"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Time Table" />
+
+        <item
+        android:id="@+id/nav_examination"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Examination" />
+
+        <item
+        android:id="@+id/nav_results"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Results" />
+
+        <item
+        android:id="@+id/nav_fees"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Fees" />
+
+        <!--<item-->
+        <!--android:id="@+id/nav_library"-->
+        <!--android:icon="@drawable/ic_menu_camera"-->
+        <!--android:title="Library" />-->
+
+        <!--<item-->
+        <!--android:id="@+id/nav_wallet"-->
+        <!--android:icon="@drawable/ic_menu_camera"-->
+        <!--android:title="Wallet" />-->
+
+        <!--<item-->
+        <!--android:id="@+id/nav_notification"-->
+        <!--android:icon="@drawable/ic_menu_camera"-->
+        <!--android:title="Notification" />-->
+
+        <!--<item-->
+        <!--android:id="@+id/nav_assignments"-->
+        <!--android:icon="@drawable/ic_menu_camera"-->
+        <!--android:title="Assignments" />-->
+
+        <!--<item-->
+        <!--android:id="@+id/nav_notes"-->
+        <!--android:icon="@drawable/ic_menu_camera"-->
+        <!--android:title="Notes" />-->
+
+        <!--<item-->
+        <!--android:id="@+id/nav_chat"-->
+        <!--android:icon="@drawable/ic_menu_camera"-->
+        <!--android:title="Chat" />-->
+
+    </group>
+
+
+</menu>

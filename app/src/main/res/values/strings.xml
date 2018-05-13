@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Eduelixir</string>
+    <string name="title_activity_info_drawer">InfoDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Admin</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Attendance_fragment">Attendance fragment</string>
+    <string name="DashBoard_fragment">DashBoard fragment</string>
+    <string name="Examination_fragment">Examination fragment</string>
+    <string name="Fees_fragment">Fees fragment</string>
+    <string name="Results_fragment">Results fragment</string>
+    <string name="TimeTable_fragment">TimeTable fragment</string>
+
+
+
 </resources>
